@@ -26,4 +26,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PagamentosApi.Infrastructure\PagamentosApi.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
